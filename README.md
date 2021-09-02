@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Evelyne Calista (李秋琳)
-I am a graduate student of PhD in EECS International Graduate Program of National Yang Ming Chiao Tung University. My research interest revolves around
+I am a graduate student of PhD in EECS International Graduate Program of National Yang Ming Chiao Tung University (Taiwan). My research interest revolves around
 the usage of Deep Learning and Computer Vision for solving medical problems. I got my M.Sc in Biomedical
 Engineering from NTUST (Taiwan, 2018) and finished my B.Eng at Airlanga University (Indonesia, 2015). 
 
