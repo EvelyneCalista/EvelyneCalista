@@ -19,7 +19,7 @@ I am a graduate student of PhD in EECS International Graduate Program of Nationa
 the usage of Deep Learning and Computer Vision for solving medical problems. I got my M.Sc in Biomedical
 Engineering from NTUST (Taiwan, 2018) and finished my B.Eng at Airlanga University (Indonesia, 2015). 
 
-# Portfolio
+# Portfolio ✏
 - A Benchmark for Comparing Precision Medicine Methods in Thyroid Cancer Diagnosis using Tissue Microarrays - Bioinformatics 2018 [[pdf]](https://academic.oup.com/bioinformatics/article/34/10/1767/4774301)
   - Ching-Wei Wang, Yu-Ching Lee, **Evelyne Calista**, Fan Zhou, Hongtu Zhu, Ryohei Suzuki, Daisuke Komura, Shumpei Ishikawa, Shih-Ping Cheng
 - A Grand Challenge for Tissue Microarray Analysis in Thyroid Cancer Diagnosis - ISBI 2017 [[web]](http://www-o.ntust.edu.tw/~cvmi/ISBI2017/)
