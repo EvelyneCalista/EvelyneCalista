@@ -30,7 +30,7 @@ Engineering from NTUST (Taiwan, 2018) and finished my B.Eng at Airlanga Universi
   - Anggrek Citra Nusantara, **Evelyne Calista**, Madhanayu Putri Tarista, Zulfa Az-Zakiyah R., Endah Purwanti
 
 # Contact 📫
-evelynecalista@gmail.com or evelynecalista.bt09@nycu.edu.tw
+evelynecalista [at] gmail [dot] com or evelynecalista[dot]bt09 [at] nycu [dot] edu [dot] tw
 
 # Tools 👩‍💻
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
