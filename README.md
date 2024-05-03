@@ -20,6 +20,8 @@ the usage of Deep Learning and Computer Vision for solving medical problems. I g
 Engineering from NTUST (Taiwan, 2018) and finished my B.Eng at Airlanga University (Indonesia, 2015). 
 
 # Portfolio ✏
+- Tri-VAE: Triplet Variational Autoencoder for Unsupervised Anomaly Detection in Brain Tumor MRI - Accepted at VAND 2.0 workshop in conjuction with CVPR 2024
+  - Hansen Wijanarko, **Evelyne Calista**, Li-Fen Chen, Yong-Sheng Chen
 - A Benchmark for Comparing Precision Medicine Methods in Thyroid Cancer Diagnosis using Tissue Microarrays - Bioinformatics 2018 [[pdf]](https://academic.oup.com/bioinformatics/article/34/10/1767/4774301)
   - Ching-Wei Wang, Yu-Ching Lee, **Evelyne Calista**, Fan Zhou, Hongtu Zhu, Ryohei Suzuki, Daisuke Komura, Shumpei Ishikawa, Shih-Ping Cheng
 - A Grand Challenge for Tissue Microarray Analysis in Thyroid Cancer Diagnosis - ISBI 2017 [[web]](http://www-o.ntust.edu.tw/~cvmi/ISBI2017/)
