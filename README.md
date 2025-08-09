@@ -46,4 +46,5 @@ evelynecalista [at] gmail [dot] com or evelynecalista[dot]bt09 [at] nycu [dot] e
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 <!-- ![](https://img.shields.io/badge/<code>-<python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
+<!-- ![](https://img.shields.io/badge/<code>-<cpp>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
