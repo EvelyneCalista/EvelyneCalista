@@ -22,7 +22,7 @@ Engineering from NTUST (Taiwan, 2018) and finished my B.Eng at Airlanga Universi
 # Portfolio ✏
 - Geometry-Aware Conditional 3D Wavelet Diffusion for Pseudo-Healthy Brain MRI Inpainting - BraTS 2026 Inpainting challenge in conjunction with MICCAI Workshops and Challenges 2026[[pdf]](https://papers.miccai.org/miccai-2026-sat/paper/BraTS_Inpainting_011.pdf)
   - **Evelyne Calista** and Yong-Sheng Chen
-  - 6-th place global ranking
+  - _**6-th place global ranking**_
 - Tri-VAE: Triplet Variational Autoencoder for Unsupervised Anomaly Detection in Brain Tumor MRI - VAND 2.0 workshop in conjuction with CVPR 2024[[pdf]](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Wijanarko_Tri-VAE_Triplet_Variational_Autoencoder_for_Unsupervised_Anomaly_Detection_in_Brain_CVPRW_2024_paper.pdf)
   - Hansen Wijanarko, **Evelyne Calista**, Li-Fen Chen, Yong-Sheng Chen
 - A Benchmark for Comparing Precision Medicine Methods in Thyroid Cancer Diagnosis using Tissue Microarrays - Bioinformatics 2018 [[pdf]](https://academic.oup.com/bioinformatics/article/34/10/1767/4774301)
